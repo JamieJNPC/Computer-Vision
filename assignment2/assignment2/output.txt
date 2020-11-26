@@ -1,0 +1,95 @@
+1, No post
+2, No post
+3, No post
+4, No post
+5, No post
+6, No post
+7, Camera Obscured
+8, Camera Obscured
+9, Camera Obscured
+10, Post in 2 
+11, Post in 2 
+12, Post in 2 
+13, Post in 2 
+14, Post in 2 
+15, Camera Obscured
+16, Camera Obscured
+17, Post in 1 2 
+18, Post in 1 2 
+19, Post in 1 2 
+20, Post in 1 2 
+21, Post in 1 2 
+22, Camera Obscured
+23, Camera Obscured
+24, Camera Obscured
+25, Post in 1 2 3 
+26, Post in 1 2 3 
+27, Post in 1 2 3 
+28, Post in 1 2 3 
+29, Post in 1 2 3 
+30, Camera Obscured
+31, Camera Obscured
+32, Post in 1 2 3 4 
+33, Post in 1 2 3 4 
+34, Post in 1 2 3 4 
+35, Camera Obscured
+36, Camera Obscured
+37, Camera Obscured
+38, Post in 1 2 3 4 6 
+39, Post in 1 2 3 4 6 
+40, Post in 1 2 3 4 6 
+41, Post in 1 2 3 4 6 
+42, Post in 1 2 3 4 6 
+43, Post in 1 2 3 4 6 
+44, Post in 1 2 3 4 5 6 
+45, Camera Obscured
+46, Camera Obscured
+47, Post in 1 2 3 4 5 6 
+48, Post in 1 2 3 4 5 6 
+49, Post in 1 2 3 4 5 6 
+50, Post in 1 2 3 4 5 6 
+51, Camera Obscured
+52, Camera Obscured
+53, Post in 1 2 3 4 5 6 
+54, Post in 1 2 3 4 5 6 
+55, Post in 1 2 3 4 5 6 
+56, Camera Obscured
+57, Camera Obscured
+58, Post in 1 2 3 4 5 6 
+59, Post in 1 2 3 4 5 
+60, Post in 1 2 3 4 5 
+61, Post in 1 2 3 4 5 
+62, Camera Obscured
+63, Post in 2 3 4 5 
+64, Post in 2 3 4 5 
+65, Post in 2 3 4 5 
+66, Post in 2 3 4 5 
+67, Camera Obscured
+68, Camera Obscured
+69, Camera Obscured
+70, Camera Obscured
+71, Camera Obscured
+72, Camera Obscured
+73, Post in 3 4 5 
+74, Post in 3 4 
+75, Post in 3 4 
+76, Post in 3 4 
+77, Camera Obscured
+78, Camera Obscured
+79, Camera Obscured
+80, Post in 4 
+81, Post in 4 
+82, Post in 4 
+83, Camera Obscured
+84, Camera Obscured
+85, Camera Obscured
+86, Camera Obscured
+87, Post in 4 
+88, Post in 4 
+89, Post in 4 
+90, Camera Obscured
+91, Camera Obscured
+92, Camera Obscured
+93, No post
+94, No post
+95, No post
